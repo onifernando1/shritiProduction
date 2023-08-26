@@ -1,0 +1,44 @@
+.shriti-portrait {
+  height: 20rem;
+  /* width: 20rem; */
+  object-fit: contain;
+  margin-bottom: 2rem;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 20px; */
+  margin-top: 1.6rem;
+}
+
+.about-text {
+  width: 60rem;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .about-text {
+    width: 20rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-container {
+    margin-top: 4rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .shriti-portrait {
+    margin-bottom: 0;
+  }
+}
+
+.about-title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}

@@ -1,0 +1,30 @@
+.workshop-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .workshop-container {
+    margin-top: -0.5rem;
+  }
+}
+
+.upcoming,
+.past {
+  font-size: 1.3rem;
+  width: 20rem;
+  margin-bottom: 2rem;
+  /* margin-top: 1rem; */
+}
+
+#workshop-title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.individual-workshop {
+  margin-bottom: 1rem;
+}
