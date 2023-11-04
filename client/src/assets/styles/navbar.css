@@ -153,12 +153,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 25px;
+  /* margin-left: 25px; */
 }
 
 .down-arrow {
   text-align: center;
   margin-top: -8px;
+  position: absolute;
+  right: 90px;
 }
 
 .dropdown-portfolio-title,
