@@ -846,7 +846,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Two herons in flight",
+    title: "Margot and Jerry",
     order: -2,
   },
   {
