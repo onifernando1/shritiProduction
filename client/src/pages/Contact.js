@@ -11,8 +11,8 @@ function Contact() {
         please send an email to:
       </div>
       <div className="email-link link">
-        <a href="mailto:shritifernandoart@gmail.com">
-          shritifernandoart@gmail.com
+        <a href="mailto:shritifernandoartist@gmail.com">
+          shritifernandoartist@gmail.com
         </a>
       </div>
       <div className="email">Alternatively send me a message on instagram</div>
