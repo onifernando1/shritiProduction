@@ -912,7 +912,7 @@ export const allPaintingsList = [
   },{
     _id: "17",
     image: "stripeyelephant",
-    category: "abstract",
+    category: "animals",
     medium: "acrylic on canvas",
     size: "n/a",
     title: "stripey elephant",
@@ -993,7 +993,7 @@ export const allPaintingsList = [
   },{
     _id: "27",
     image: "jungleelephant",
-    category: "abstract",
+    category: "animals",
     medium: "acrylic on canvas",
     size: "n/a",
     title: "jungle elephant",
@@ -1041,7 +1041,7 @@ export const allPaintingsList = [
   },{
     _id: "33",
     image: "blueelephant",
-    category: "abstract",
+    category: "animals",
     medium: "acrylic on canvas",
     size: "n/a",
     title: "blue elephant",
