@@ -923,7 +923,7 @@ export const allPaintingsList = [
     image: "spring",
     category: "abstract",
     medium: "acrylic on board",
-    size: "n/a",
+    size: "30x42cm",
     title: "spring",
     order: 0,
   },{
