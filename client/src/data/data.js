@@ -914,7 +914,7 @@ export const allPaintingsList = [
     image: "stripeyelephant",
     category: "animals",
     medium: "acrylic on canvas",
-    size: "n/a",
+    size: "50x50cm",
     title: "stripey elephant",
     order: 0,
   },
@@ -931,7 +931,7 @@ export const allPaintingsList = [
     image: "scottishthistle",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "scottish thistle",
     order: 0,
   },{
@@ -939,7 +939,7 @@ export const allPaintingsList = [
     image: "rusty",
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "rusty",
     order: 0,
   },{
@@ -947,7 +947,7 @@ export const allPaintingsList = [
     image: "purplepoppy",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "purple poppy",
     order: 0,
   },{
@@ -955,7 +955,7 @@ export const allPaintingsList = [
     image: "purpleflowers",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "purple flowers",
     order: 0,
   },{
@@ -963,7 +963,7 @@ export const allPaintingsList = [
     image: "poppyseeds",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "poppyseeds",
     order: 0,
   },{
@@ -971,7 +971,7 @@ export const allPaintingsList = [
     image: "orangepoppy",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "orange poppy",
     order: 0,
   },{
@@ -979,7 +979,7 @@ export const allPaintingsList = [
     image: "mauveflowers",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "mauve flowers",
     order: 0,
   },{
@@ -987,7 +987,7 @@ export const allPaintingsList = [
     image: "largepoppyseeds",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "large poppy seeds",
     order: 0,
   },{
@@ -995,7 +995,7 @@ export const allPaintingsList = [
     image: "jungleelephant",
     category: "animals",
     medium: "acrylic on canvas",
-    size: "n/a",
+    size: "50x50cm",
     title: "jungle elephant",
     order: 0,
   },{
@@ -1003,7 +1003,7 @@ export const allPaintingsList = [
     image: "grasses1",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "grasses 1",
     order: 0,
   },{
@@ -1011,7 +1011,7 @@ export const allPaintingsList = [
     image: "grasses2",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "grasses 2",
     order: 0,
   },{
@@ -1027,7 +1027,7 @@ export const allPaintingsList = [
     image: "echinacea",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "echinacea",
     order: 0,
   },{
@@ -1035,7 +1035,7 @@ export const allPaintingsList = [
     image: "blueiris",
     category: "other",
     medium: "pen, ink and pen/ink/watercolour on paper",
-    size: "n/a",
+    size: "21x30cm",
     title: "blue iris",
     order: 0,
   },{
@@ -1043,7 +1043,7 @@ export const allPaintingsList = [
     image: "blueelephant",
     category: "animals",
     medium: "acrylic on canvas",
-    size: "n/a",
+    size: "50x50cm",
     title: "blue elephant",
     order: 0,
   },
