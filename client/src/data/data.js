@@ -326,7 +326,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen/ink/watercolour",
     size: "21x30cm",
-    order: 7,
+    order: 0,
   },
   {
     _id: "6499ee3c70b66f241a250184",
@@ -892,7 +892,7 @@ export const allPaintingsList = [
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
     title: "tig",
-    order: 0,
+    order: 6,
   },  {
     _id: "15",
     image: "thistle",
@@ -906,7 +906,7 @@ export const allPaintingsList = [
     image: "sunblast",
     category: "abstract",
     medium: "oil on canvas",
-    size: "n/a",
+    size: "60x80cm",
     title: "sunblast",
     order: 0,
   },{
@@ -916,7 +916,7 @@ export const allPaintingsList = [
     medium: "acrylic on canvas",
     size: "50x50cm",
     title: "stripey elephant",
-    order: 0,
+    order: 7,
   },
   {
     _id: "18",
@@ -941,7 +941,7 @@ export const allPaintingsList = [
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
     title: "rusty",
-    order: 0,
+    order: 6,
   },{
     _id: "21",
     image: "purplepoppy",
@@ -997,7 +997,7 @@ export const allPaintingsList = [
     medium: "acrylic on canvas",
     size: "50x50cm",
     title: "jungle elephant",
-    order: 0,
+    order: 7,
   },{
     _id: "28",
     image: "grasses1",
@@ -1019,7 +1019,7 @@ export const allPaintingsList = [
     image: "goldenwaterfall",
     category: "abstract",
     medium: "acrylic on canvas",
-    size: "n/a",
+    size: "60x80cm",
     title: "golden waterfall",
     order: 0,
   },{
@@ -1045,6 +1045,6 @@ export const allPaintingsList = [
     medium: "acrylic on canvas",
     size: "50x50cm",
     title: "blue elephant",
-    order: 0,
+    order: 7,
   },
 ];
