@@ -176,7 +176,7 @@ export const allPaintingsList = [
     medium: "mixed media on paper",
     size: "21x30cm",
     colour: "grey",
-    order: 1,
+    order:-2,
   },
   {
     _id: "649388616975b11824efb2ee",
@@ -186,7 +186,7 @@ export const allPaintingsList = [
     medium: "pen/ink/watercolour on paper",
     size: "21x30cm",
     colour: "sepia",
-    order: 2,
+    order: -2,
   },
   {
     _id: "649388f06975b11824efb2ef",
@@ -326,7 +326,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen/ink/watercolour",
     size: "21x30cm",
-    order: 0,
+    order: -1,
   },
   {
     _id: "6499ee3c70b66f241a250184",
@@ -442,7 +442,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen/ink/watercolour on paper",
     size: "21x30cm",
-    order: 3,
+    order: -2,
   },
   {
     _id: "649c9ffbe4a36af598977494",
@@ -478,7 +478,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "oil on canvas",
     size: "30x30cm",
-    order: 6,
+    order: 2,
   },
   {
     _id: "649ca273e4a36af598977498",
@@ -514,7 +514,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen/ink/watercolour",
     size: "21x30cm",
-    order: 4,
+    order: 2,
   },
   {
     _id: "649ca5f1e4a36af59897749c",
@@ -757,7 +757,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen/ink/watercolour",
     size: "21x30cm",
-    order: 5,
+    order: 2,
   },
   {
     _id: "64b01a9516bbd9dfe24b4a20",
@@ -801,8 +801,8 @@ export const allPaintingsList = [
     category: "animals",
     medium: "oil on canvas",
     size: "100x100cm",
-    title: "Orange deer",
-    order: -4,
+    title: "orange deer",
+    order: -3,
   },
   {
     _id: "5",
@@ -811,7 +811,7 @@ export const allPaintingsList = [
     medium: "oil on canvas",
     size: "50x70cm  ",
     title: "Angel Wings",
-    order: -1,
+    order: 0,
   },
   {
     _id: "6",
@@ -819,7 +819,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "oil on canvas",
     size: "100x80cm",
-    title: "Green deer",
+    title: "green deer",
     order: -3,
   },
   {
@@ -828,8 +828,8 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Heron in flight",
-    order: -2,
+    title: "heron in flight",
+    order: 0,
   },
   {
     _id: "8",
@@ -837,8 +837,8 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Cat stretch",
-    order: 0,
+    title: "cat stretch",
+    order: 1,
   },
   {
     _id: "9",
@@ -846,8 +846,8 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Margot and Jerry",
-    order: -2,
+    title: "margot and jerry",
+    order: 0,
   },
   {
     _id: "10",
@@ -855,8 +855,8 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Tom and barbara",
-    order: -2,
+    title: "tom and barbara",
+    order: 0,
   },
   {
     _id: "11",
@@ -864,8 +864,8 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Cat",
-    order: 0,
+    title: "cat",
+    order: 1,
   },
   {
     _id: "12",
@@ -873,7 +873,7 @@ export const allPaintingsList = [
     category: "animals",
     medium: "pen, ink and pen/ink/watercolour on paper",
     size: "21x30cm",
-    title: "Seated Cat",
+    title: "seated cat",
     order: 0,
   },
   {
@@ -916,7 +916,7 @@ export const allPaintingsList = [
     medium: "acrylic on canvas",
     size: "50x50cm",
     title: "stripey elephant",
-    order: 7,
+    order: -4,
   },
   {
     _id: "18",
@@ -997,7 +997,7 @@ export const allPaintingsList = [
     medium: "acrylic on canvas",
     size: "50x50cm",
     title: "jungle elephant",
-    order: 7,
+    order: -4,
   },{
     _id: "28",
     image: "grasses1",
@@ -1045,6 +1045,6 @@ export const allPaintingsList = [
     medium: "acrylic on canvas",
     size: "50x50cm",
     title: "blue elephant",
-    order: 7,
+    order: -4,
   },
 ];
